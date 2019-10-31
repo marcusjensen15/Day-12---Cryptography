@@ -1,0 +1,13 @@
+h1 {
+  font-variant: small-caps;
+  text-align: center;
+}
+
+.outputBox {
+  display: none;
+}
+
+tr, td {
+  border: 2px solid black;
+  padding: 5px;
+}
